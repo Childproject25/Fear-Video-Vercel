@@ -1,0 +1,10 @@
+{
+  "name": "fear-interactive-video",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "فيديو تفاعلي عن الخوف مع أسئلة حية مرتبطة بخاصيات الضحية وفئاتها ومسؤوليتها — علم ضحايا الجريمة.",
+  "dependencies": {
+    "@upstash/redis": "^1.35.1"
+  }
+}
